@@ -11,11 +11,7 @@ Sitio corporativo estático para NovaStellar Scientific E.I.R.L., preparado para
 
 ## Verificación de Google Search Console
 
-La metaetiqueta solicitada ya está incluida en el `<head>` de `index.html`:
-
-```html
-<meta name="google-site-verification" content="YbcT4YpL01SoiIJnn_XRIWDLZ_HEXor4SYHHNOS7NzY" />
-```
+La etiqueta de verificación está configurada únicamente en el `<head>` de `index.html`.
 
 ## Cómo ver el sitio localmente
 
